@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.hero{
+display:flex;
+justify-content:center;
+align-items: centre;
+}
+
+.right{
+padding-left:30px
+}
+
+
+button{
+padding: 20px;
+background-color:red;
+color: white;
+border: none
+
+
+}
+
+img{
+width:400px;
+height:300px;
+object-fit: cover;
+}
